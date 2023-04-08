@@ -7,3 +7,5 @@ on modifie le readme
 on créer un subheader 
 
 on rajoute les options au commit
+
+ouais
